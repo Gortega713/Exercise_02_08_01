@@ -1,0 +1,36 @@
+/*
+    Author: Gabriel Ortega
+    Date: 11.7.18
+
+    Filename: InterviewCandidates.css
+*/
+
+/* Form Styles */
+
+input:focus {
+    outline: none;
+    background-color: aquamarine;
+}
+
+input, textarea {
+    border: black 1px solid;
+}
+
+#interviewer {
+    margin: 0px;
+    background-color: antiquewhite;
+}
+
+#candidate {
+    margin: 0px;
+    background-color: bisque;
+}
+
+#interviewHeader {
+    text-align: left;
+    background-color: antiquewhite;
+}
+
+html {
+    background-color: antiquewhite;
+}
